@@ -11,6 +11,10 @@ apple
 mango
 orange
 
+graphs
+potato
+aalu
+
 
 
 Thank you
